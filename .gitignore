@@ -2,3 +2,8 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# others
+elm-stuff/
+.vscode
+index.html
+main.js
